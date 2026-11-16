@@ -1,6 +1,6 @@
 # @themost/mailer
 
-[Most Web Framework](https://github.com/themost-framework/themost) Mailer simplifies mail operations by sending either static or dynamic html emails.
+[Most Web Framework](https://github.com/themost-framework/) Mailer simplifies mail operations by sending either static or dynamic html emails.
 
 Install with npm
 
